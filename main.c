@@ -7,5 +7,10 @@
 
 int main () {
 
+    // Deve ter um selecionador de opção feito com ponteiro pra função (substiuição de switch case)
+    
+    
+
+    
     return 0;
 }
