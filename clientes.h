@@ -5,14 +5,14 @@
 
 #define TAM_NOME 100
 #define TAM_CPF 15
-#define TAM_TELEFONE 20
+#define TAM_IDADE 4
 
 typedef struct Cliente
 {
     int id;
     char nome[TAM_NOME];
     char cpf[TAM_CPF];
-    char telefone[TAM_TELEFONE];
+    char idade[TAM_IDADE];
 
     struct Cliente *prox;
 
